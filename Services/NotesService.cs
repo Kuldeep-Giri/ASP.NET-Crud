@@ -5,6 +5,6 @@ public class NotesService
 {
 	public Add()
 	{
-		
+		Console.WriteLine("hello")
 	}
 }
